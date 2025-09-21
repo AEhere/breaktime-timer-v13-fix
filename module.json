@@ -38,7 +38,7 @@
     "breaktime.css"
   ],
   "url": "https://github.com/AEhere/breaktime-timer-v13-fix",
-  "download": "https://github.com/AEhere/breaktime-timer-v13-fix/archive/13.02.1.zip",
+  "download": "https://github.com/AEhere/breaktime-timer-v13-fix/archive/refs/tags/13.2.1.zip",
   "manifest": "https://github.com/AEhere/breaktime-timer-v13-fix/releases/latest/download/module.json",
   "bugs": "https://github.com/AEhere/breaktime-timer-v13-fix/issues",
   "id": "breaktime",
@@ -53,4 +53,5 @@
     "allowBugReporter": true
   }
 }
+
 
